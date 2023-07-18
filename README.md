@@ -45,14 +45,17 @@ https://embrace-autism.com/cat-q/
 
 > Your total score was 142 out of a possible 175.
 
-| CAT-Q scores   | Neurotypical μ | Autistic μ | Your Scores |
-|----------------|----------------|------------|-------------|
-| Total score    | 109            | 122        | 142         |
-| Compensation   | 35             | 44         | 54          |
-| Masking        | 39             | 36         | 37          |
-| Assimilation   | 35             | 40         | 51          |
+| CAT-Q scores | Neurotypical μ | Autistic μ | Your Scores | Previous Scores |
+| ------------ | -------------- | ---------- | ----------- | --------------- |
+| Total score  | 109            | 122        | 142         | 149             |
+| Compensation | 35             | 44         | 54          | 55              |
+| Masking      | 39             | 36         | 37          | 47              |
+| Assimilation | 35             | 40         | 51          | 47              |
 
-***Note:*** *This table was specifically for non-binary people, though male/female values can be found at the link*
+***Notes:*** 
+- *This table was specifically for non-binary people, though male/female values can be found at the link*
+- *Test was previously taken on Feb 11, 2023 at 15:42*
+
 
 ## The Aspie Quiz
 https://embrace-autism.com/aspie-quiz/
