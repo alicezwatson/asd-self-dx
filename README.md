@@ -64,6 +64,12 @@ https://embrace-autism.com/aspie-quiz/
 > Your neurotypical score was 57 out of a possible 200.<br>
 > You are very likely on the broader autism cluster.<br>
 
+## Clinical Partners UK: Adult Autism Test
+https://www.clinical-partners.co.uk/for-adults/autism-and-aspergers/adult-autism-test/
+
+> Your score was 25.<br>
+> Scores of 20-30 are considered indicative of an Autism Spectrum Disorder.<br>
+
 ---
 
 # Other Resources
