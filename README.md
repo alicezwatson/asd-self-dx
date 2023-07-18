@@ -64,3 +64,14 @@ https://embrace-autism.com/aspie-quiz/
 Your autism cluster score was 145 out of a possible 200.  
 Your neurotypical score was 57 out of a possible 200.
 You are very likely on the broader autism cluster.
+
+---
+
+# Other Resources
+
+- https://depts.washington.edu/uwautism/wp-content/uploads/2022/09/Self-Diagnosed-Adult-Autism-Resources-handout-9-22-22.pdf
+
+# Previous Posts
+
+- https://lgbtqia.space/@alice/110096954010048271
+- https://lgbtqia.space/@alice/109848754867807563
